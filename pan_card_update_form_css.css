@@ -1,0 +1,103 @@
+html
+{
+    font-family: "Encode Sans", "Helvetica", "Tahoma", 
+    "Geneva", "Arial",sans-serif;
+}
+
+
+table 
+{
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    background-color: #fffcce;
+    letter-spacing: 0px;
+    font-size: 0.7rem;
+    width: min(3200px, 90%);
+    
+}
+
+td,th
+{
+    border: 1px solid rgb(190, 190, 190);
+    padding: 2px 2px;
+    text-align: left;
+    vertical-align: middle;
+}
+.my-header
+{
+    text-align: center;
+    background-color: maroon;
+    color: white;
+}
+.span-header
+{
+    font-size: 0.7rem;
+    font-style: italic;
+    font-weight: lighter;
+}
+.links
+{
+    color: rgb(255, 166, 0);
+}
+.Highlight-asterisk 
+{
+    color: rgb(255, 0, 0);
+    padding-right: 2px;
+}
+.label-for-radio
+{
+    padding-left: 15px;
+    font-weight: lighter;
+}
+.label-for-text
+{
+    font-weight: bold;
+}
+.my-div-5
+{
+    column-count: 3;
+    column-width: 0.3em;
+    column-gap: 0.05em;
+}
+.input-for-name
+{
+    width: 105px;
+}
+.text-field
+{
+    font-weight: lighter;
+    color: blue;
+}
+.text-field-1
+{
+    font-weight: bold;
+    padding-right: 10px;
+}
+.Name-printed-on-card
+{
+    width: 20em;
+}
+.my-div-9
+{
+    column-count: 3;
+    column-width: 0.3em;
+    column-gap: 0.05em;
+}
+.my-div-10
+{
+    column-count: 3;
+    column-width: 0.3em;
+    column-gap: 0.05em;
+}
+.field
+{
+
+    font-weight: bold;
+    padding-right: 10px;
+}
+.my-div-11
+{
+    column-count: 3;
+    column-width: 0.3em;
+    column-gap: 0.05em;
+}
